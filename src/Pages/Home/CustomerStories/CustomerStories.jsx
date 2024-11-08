@@ -1,7 +1,7 @@
 import React from 'react';
-import herosection1 from '../../../assets/heroSection1.jpeg';
 import { FaArrowRightLong } from "react-icons/fa6";
-
+import businessowserman from '../../../assets/businessowserman.jpg'
+import shoesshopowner from '../../../assets/shoesshopowner.jpg'
 const CustomerStories = () => {
   return (
     <>
@@ -15,13 +15,13 @@ const CustomerStories = () => {
           <div id='card' className='w-full md:w-[22rem] hover:bg-gray-200 hover:cursor-pointer border border-cyan-200 rounded-2xl overflow-hidden'>
             <div className='rounded-2xl group'>
               <img
-                src={herosection1}
+                src={businessowserman}
                 className='rounded-2xl transform transition duration-300 ease-in-out group-hover:scale-110'
                 alt=""
               />
             </div>
             <div className='p-5'>
-              StayVista Drives Lead Engagement and Guest Satisfaction via WhatsApp and Instagram Automation
+            By using this bot, I have improved the experience of my customers a lot. With the help of automatic call and WhatsApp bot, now customers get instant answers to their inquiries, and I also get a chance to pay more attention to my shop. This has not only made the work easier, but customers are also happy with our service.
             </div>
             <div className='flex items-center gap-2 p-3 justify-center'>
               <span>Learn more</span>
@@ -35,13 +35,13 @@ const CustomerStories = () => {
           <div id='card' className='w-full md:w-[22rem] hover:bg-gray-200 hover:cursor-pointer border border-cyan-200 rounded-2xl overflow-hidden'>
             <div className='rounded-2xl group'>
               <img
-                src={herosection1}
+                src={shoesshopowner}
                 className='rounded-2xl transform transition duration-300 ease-in-out group-hover:scale-110'
                 alt=""
               />
             </div>
             <div className='p-5'>
-              StayVista Drives Lead Engagement and Guest Satisfaction via WhatsApp and Instagram Automation
+            By using this bot, I have improved the experience of my customers a lot. With the help of automatic call and WhatsApp bot, now customers get instant answers to their inquiries, and I also get a chance to pay more attention to my shop. This has not only made the work easier, but customers are also happy with our service.
             </div>
             <div className='flex items-center gap-2 p-3 justify-center'>
               <span>Learn more</span>
@@ -55,13 +55,13 @@ const CustomerStories = () => {
           <div id='card' className='w-full md:w-[22rem] hover:bg-gray-200 hover:cursor-pointer border border-cyan-200 rounded-2xl overflow-hidden'>
             <div className='rounded-2xl group'>
               <img
-                src={herosection1}
+                src={businessowserman}
                 className='rounded-2xl transform transition duration-300 ease-in-out group-hover:scale-110'
                 alt=""
               />
             </div>
             <div className='p-5'>
-              StayVista Drives Lead Engagement and Guest Satisfaction via WhatsApp and Instagram Automation
+            By using this bot, I have improved the experience of my customers a lot. With the help of automatic call and WhatsApp bot, now customers get instant answers to their inquiries, and I also get a chance to pay more attention to my shop. This has not only made the work easier, but customers are also happy with our service.
             </div>
             <div className='flex items-center gap-2 p-3 justify-center'>
               <span>Learn more</span>
